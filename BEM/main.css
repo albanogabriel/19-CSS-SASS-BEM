@@ -1,0 +1,9 @@
+.form__control {
+  background-color: red;
+}
+
+.form .form__control {
+  background-color: blue;
+}
+
+/*# sourceMappingURL=main.css.map */
